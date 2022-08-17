@@ -1,2 +1,2 @@
-# Lesson-7
-Ajax begins
+# JS-Lesson-6
+burgerbar + input thingZZz
