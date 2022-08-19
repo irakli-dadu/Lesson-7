@@ -81,6 +81,7 @@ function allusers() {
         let jsconverted = JSON.parse(responsey)
     
         let ulTag = document.createElement('ul')
+        ulTag.classList.add('userUl')
 
         jsconverted.data.forEach(element => {
                 let liTag = document.createElement('li')

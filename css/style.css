@@ -100,3 +100,8 @@ a {
     font-size: 25px;
     color: red;
 }
+
+.userUl {
+    display: flex;
+    gap: 15px;
+}
